@@ -50,9 +50,7 @@ The rear axle originally ran directly in the Kettcar frame. Under engine load it
 
 ## Author
 
-Built by [Your Name] together with a friend. Part of my engineering portfolio, along with an industrial-component 3D printer and an ESP32 universal remote.
-
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+Built by [Simon Kreer] together with a friend. Part of my engineering portfolio, along with an industrial-component 3D printer and an ESP32 universal remote.
 
 ## License
 
