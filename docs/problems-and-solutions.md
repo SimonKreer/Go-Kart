@@ -1,30 +1,19 @@
 # Problems and Solutions
 
-## Problem 1: Rear axle wears into the frame
+## Rear Axle Wore Into the Frame
 
 | | |
 |---|---|
-| **Symptom** | Rear axle ran into the frame material |
-| **Cause** | Axle supported directly by the Kettcar frame, which was designed for pedal power, not engine drive loads |
-| **Fix** | Two pillow block bearings mounted at the rear |
-| **Takeaway** | Drivetrain loads must go through proper bearing mounts |
-| **Status** | Axle being reworked |
+| **Symptom** | After the first test runs, the rear axle had worn into the frame material |
+| **Cause** | The axle ran directly in the Kettcar frame, which is designed for pedal power, not engine loads |
+| **Fix** | Two UCP204 pillow block bearings (20 mm bore, cast housings with grease nipples) bolted to the frame at the rear |
+| **Takeaway** | Drivetrain loads must go through proper bearings, not through frame material |
+| **Status** | Solved |
 
-<!-- Add photos: images/axle-damage.jpg, images/axle-bearings.jpg -->
+![Frame plate with the axle slot worn through](../images/frame-axle-damage.jpg)
 
-## Problem 2: Chain
+The photo shows the Kettcar frame plate at the point where the rotating axle wore into the material under engine load.
 
-| | |
-|---|---|
-| **Symptom** | TBD (describe what failed) |
-| **Cause** | TBD |
-| **Fix** | In progress |
+![Underside: rear axle, brake disc and sprocket on their lathe-turned adapters](../images/underside-axle-brake-sprocket.jpg)
 
-## Template for Further Entries
-
-| | |
-|---|---|
-| **Symptom** | |
-| **Cause** | |
-| **Fix** | |
-| **Takeaway** | |
+After the rework the axle runs in the pillow block bearings. The sprocket and the brake disc are mounted on lathe-turned adapters on the axle.

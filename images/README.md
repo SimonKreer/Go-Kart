@@ -1,12 +1,13 @@
 # Photos
 
-Add images here and reference them in the documentation.
+All photos are resized to a maximum of 1600 px on the long edge and have their metadata removed.
 
 | File | Motif |
 |---|---|
-| `hero.jpg` | Finished kart, 3/4 front view |
-| `start-frame.jpg` | Kettcar frame before the build |
-| `drivetrain.jpg` | Engine, clutch and chain run |
-| `axle-damage.jpg` | Wear on the frame or axle |
-| `axle-bearings.jpg` | Pillow block bearings installed |
-| `test-drive.mp4` | Short test drive video (or link) |
+| [kart-front.jpg](kart-front.jpg) | Finished kart, front three-quarter view |
+| [kart-front-steering.jpg](kart-front-steering.jpg) | Front axle, steering linkage and pedal mounts |
+| [kart-side.jpg](kart-side.jpg) | Side view with seat, engine and chain |
+| [engine-chain-sprocket.jpg](engine-chain-sprocket.jpg) | Engine, centrifugal clutch, chain and rear sprocket |
+| [brake.jpg](brake.jpg) | Disc brake caliper above the rear wheel |
+| [frame-axle-damage.jpg](frame-axle-damage.jpg) | Frame plate with the axle slot worn through |
+| [underside-axle-brake-sprocket.jpg](underside-axle-brake-sprocket.jpg) | Underside: rear axle, brake disc and sprocket on lathe-turned adapters |
